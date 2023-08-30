@@ -1,0 +1,23 @@
+{
+  "name": "excelimgpdfmerger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/storage": "^5.18.2",
+    "async": "^3.2.3",
+    "canvas": "^2.9.0",
+    "html-pdf": "^3.0.1",
+    "image-to-pdf": "^1.0.0",
+    "pdf-lib": "^1.17.1",
+    "pdf-merger-js": "^3.4.0",
+    "request": "^2.88.2",
+    "uuid": "^8.3.2",
+    "xlsx": "^0.18.2"
+  }
+}
