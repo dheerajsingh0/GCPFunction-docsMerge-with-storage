@@ -49,15 +49,3 @@ Once deployed and properly configured, the function will automatically trigger u
 ### Contributions
 
 Contributions, improvements, and feature requests are welcome! Please ensure that you adhere to the code style and guidelines.
-
-### License
-
-This project is licensed under the MIT License - see the `LICENSE.md` file for details.
-
-### Contact
-
-For further questions, reach out to the repository owner or raise an issue.
-
----
-
-Happy Merging! 🚀
